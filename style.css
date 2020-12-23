@@ -1,0 +1,29 @@
+div {
+  width: 300px;
+  position: relative;
+margin: auto;
+    
+
+  background-color: aqua;
+}
+@font-face{
+  font-family:myfont;
+
+  src:url(assets/Vazir-Light.ttf)format('.ttf');
+}
+div h1 {
+  text-align: center;
+  align-items: center;
+  font-family: 'myfont',Arial, Helvetica, sans-serif;
+}
+div h4 {
+  text-align: center;
+  font-family: 'myfont',Arial, Helvetica, sans-serif;
+}
+div img
+{
+  width:200px ;
+  height:200px;
+padding-right: 50px;
+padding-left: 50pX;
+}
